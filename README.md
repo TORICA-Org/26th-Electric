@@ -4,4 +4,4 @@
 ## [GitHub Pages](https://torica-25th.github.io/26th/)
 
 - [スケジュール](schedule/)
-- [計画](plan/)
+- [製作計画](plan/)
