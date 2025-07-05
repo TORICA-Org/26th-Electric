@@ -62,7 +62,7 @@
   <tr><td>5</td><td>火</td><td></td><td>テスト期間終了</td></tr>
   <tr><td>6</td><td>水</td><td>○</td><td></td></tr>
   <tr><td>7</td><td>木</td><td></td><td>追いコン</td></tr>
-  <tr><td>8</td><td>金</td><td></td><td></td></tr>
+  <tr><td>8</td><td>金</td><td>○</td><td></td></tr>
   <tr><td>9</td><td>土</td><td></td><td>・お盆休み初日</td></tr>
   <tr><td>10</td><td>日</td><td></td><td>｜</td></tr>
   <tr><td>11</td><td>月</td><td></td><td>｜</td></tr>
