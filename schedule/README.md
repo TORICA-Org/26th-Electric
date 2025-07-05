@@ -1,4 +1,6 @@
 # スケジュール
+
+作業日は基本的に火，水，金とします．  
 ※永田が居なくても作業することは可としますが，永田が居ない日の作業で起こった事故に対しては責任を負いかねます．
 
 ## 凡例
@@ -13,112 +15,112 @@
 ## 7月
 <table>
   <tr>
-    <th>日付</th><th>曜日</th><th>イベント</th>
+    <th>日付</th><th>曜日</th><th>実施</th><th>その他イベント</th>
   </tr>
-  <tr><td>1</td><td>火</td><td>電装教室①</td></tr>
-  <tr><td>2</td><td>水</td><td>電装教室②</td></tr>
-  <tr><td>3</td><td>木</td><td></td></tr>
-  <tr><td>4</td><td>金</td><td><s>電装教室③</s></td></tr>
-  <tr><td>5</td><td>土</td><td></td></tr>
-  <tr><td>6</td><td>日</td><td></td></tr>
-  <tr><td>7</td><td>月</td><td></td></tr>
-  <tr><td>8</td><td>火</td><td>電装教室③</td></tr>
-  <tr><td>9</td><td>水</td><td>電装教室④</td></tr>
-  <tr><td>10</td><td>木</td><td></td></tr>
-  <tr><td>11</td><td>金</td><td>電装教室⑤</td></tr>
-  <tr><td>12</td><td>土</td><td></td></tr>
-  <tr><td>13</td><td>日</td><td></td></tr>
-  <tr><td>14</td><td>月</td><td></td></tr>
-  <tr><td>15</td><td>火</td><td>電装教室⑥</td></tr>
-  <tr><td>16</td><td>水</td><td>電装教室⑦</td></tr>
-  <tr><td>17</td><td>木</td><td></td></tr>
-  <tr><td>18</td><td>金</td><td></td></tr>
-  <tr><td>19</td><td>土</td><td></td></tr>
-  <tr><td>20</td><td>日</td><td>全組④</td></tr>
-  <tr><td>21</td><td>月</td><td></td></tr>
-  <tr><td>22</td><td>火</td><td></td></tr>
-  <tr><td>23</td><td>水</td><td></td></tr>
-  <tr><td>24</td><td>木</td><td></td></tr>
-  <tr><td>25</td><td>金</td><td></td></tr>
-  <tr><td>26</td><td>土</td><td>鳥人間コンテスト2025（プロペラ機部門）</td></tr>
-  <tr><td>27</td><td>日</td><td>鳥人間コンテスト2025（滑空機部門）</td></tr>
-  <tr><td>28</td><td>月</td><td></td></tr>
-  <tr><td>29</td><td>火</td><td></td></tr>
-  <tr><td>30</td><td>水</td><td></td></tr>
-  <tr><td>31</td><td>木</td><td></td></tr>
+  <tr><td>1</td><td>火</td><td></td><td>電装教室①</td></tr>
+  <tr><td>2</td><td>水</td><td></td><td>電装教室②</td></tr>
+  <tr><td>3</td><td>木</td><td></td><td></td></tr>
+  <tr><td>4</td><td>金</td><td></td><td><s>電装教室③</s></td></tr>
+  <tr><td>5</td><td>土</td><td></td><td></td></tr>
+  <tr><td>6</td><td>日</td><td></td><td></td></tr>
+  <tr><td>7</td><td>月</td><td></td><td></td></tr>
+  <tr><td>8</td><td>火</td><td></td><td>電装教室③</td></tr>
+  <tr><td>9</td><td>水</td><td></td><td>電装教室④</td></tr>
+  <tr><td>10</td><td>木</td><td></td><td></td></tr>
+  <tr><td>11</td><td>金</td><td></td><td>電装教室⑤</td></tr>
+  <tr><td>12</td><td>土</td><td></td><td></td></tr>
+  <tr><td>13</td><td>日</td><td></td><td></td></tr>
+  <tr><td>14</td><td>月</td><td></td><td></td></tr>
+  <tr><td>15</td><td>火</td><td></td><td>電装教室⑥</td></tr>
+  <tr><td>16</td><td>水</td><td></td><td>電装教室⑦</td></tr>
+  <tr><td>17</td><td>木</td><td></td><td></td></tr>
+  <tr><td>18</td><td>金</td><td></td><td></td></tr>
+  <tr><td>19</td><td>土</td><td></td><td></td></tr>
+  <tr><td>20</td><td>日</td><td></td><td>全組④</td></tr>
+  <tr><td>21</td><td>月</td><td></td><td></td></tr>
+  <tr><td>22</td><td>火</td><td></td><td></td></tr>
+  <tr><td>23</td><td>水</td><td></td><td></td></tr>
+  <tr><td>24</td><td>木</td><td></td><td></td></tr>
+  <tr><td>25</td><td>金</td><td></td><td></td></tr>
+  <tr><td>26</td><td>土</td><td></td><td>鳥人間コンテスト2025（プロペラ機部門）</td></tr>
+  <tr><td>27</td><td>日</td><td></td><td>鳥人間コンテスト2025（滑空機部門）</td></tr>
+  <tr><td>28</td><td>月</td><td></td><td></td></tr>
+  <tr><td>29</td><td>火</td><td></td><td></td></tr>
+  <tr><td>30</td><td>水</td><td></td><td></td></tr>
+  <tr><td>31</td><td>木</td><td></td><td></td></tr>
 </table>
 
 ## 8月
 <table>
   <tr>
-    <th>日付</th><th>曜日</th><th>イベント</th>
+    <th>日付</th><th>曜日</th><th>実施</th><th>その他イベント</th>
   </tr>
-  <tr><td>1</td><td>金</td><td></td></tr>
-  <tr><td>2</td><td>土</td><td></td></tr>
-  <tr><td>3</td><td>日</td><td></td></tr>
-  <tr><td>4</td><td>月</td><td></td></tr>
-  <tr><td>5</td><td>火</td><td>テスト期間終了</td></tr>
-  <tr><td>6</td><td>水</td><td>○</td></tr>
-  <tr><td>7</td><td>木</td><td>追いコン</td></tr>
-  <tr><td>8</td><td>金</td><td></td></tr>
-  <tr><td>9</td><td>土</td><td>・お盆休み初日</td></tr>
-  <tr><td>10</td><td>日</td><td>｜</td></tr>
-  <tr><td>11</td><td>月</td><td>｜</td></tr>
-  <tr><td>12</td><td>火</td><td>｜</td></tr>
-  <tr><td>13</td><td>水</td><td>｜</td></tr>
-  <tr><td>14</td><td>木</td><td>｜</td></tr>
-  <tr><td>15</td><td>金</td><td>｜</td></tr>
-  <tr><td>16</td><td>土</td><td>｜</td></tr>
-  <tr><td>17</td><td>日</td><td>｜</td></tr>
-  <tr><td>18</td><td>月</td><td>｜合宿（1日目）</td></tr>
-  <tr><td>19</td><td>火</td><td>｜合宿（2日目）</td></tr>
-  <tr><td>20</td><td>水</td><td>｜</td></tr>
-  <tr><td>21</td><td>木</td><td>｜</td></tr>
-  <tr><td>22</td><td>金</td><td>｜</td></tr>
-  <tr><td>23</td><td>土</td><td>｜</td></tr>
-  <tr><td>24</td><td>日</td><td>・お盆休み最終日</td></tr>
-  <tr><td>25</td><td>月</td><td>☆  部室清掃（エアコンの下に何もない状態にします）</td></tr>
-  <tr><td>26</td><td>火</td><td>☆  エアコン掃除（業者さんがやってくれます）</td></tr>
-  <tr><td>27</td><td>水</td><td>☆  部室引っ越し（サイズは変わりません）</td></tr>
-  <tr><td>28</td><td>木</td><td></td></tr>
-  <tr><td>29</td><td>金</td><td>○</td></tr>
-  <tr><td>30</td><td>土</td><td></td></tr>
-  <tr><td>31</td><td>日</td><td>鳥科ライブ</td></tr>
+  <tr><td>1</td><td>金</td><td></td><td></td></tr>
+  <tr><td>2</td><td>土</td><td></td><td></td></tr>
+  <tr><td>3</td><td>日</td><td></td><td></td></tr>
+  <tr><td>4</td><td>月</td><td></td><td></td></tr>
+  <tr><td>5</td><td>火</td><td></td><td>テスト期間終了</td></tr>
+  <tr><td>6</td><td>水</td><td>○</td><td></td></tr>
+  <tr><td>7</td><td>木</td><td></td><td>追いコン</td></tr>
+  <tr><td>8</td><td>金</td><td></td><td></td></tr>
+  <tr><td>9</td><td>土</td><td></td><td>・お盆休み初日</td></tr>
+  <tr><td>10</td><td>日</td><td></td><td>｜</td></tr>
+  <tr><td>11</td><td>月</td><td></td><td>｜</td></tr>
+  <tr><td>12</td><td>火</td><td></td><td>｜</td></tr>
+  <tr><td>13</td><td>水</td><td></td><td>｜</td></tr>
+  <tr><td>14</td><td>木</td><td></td><td>｜</td></tr>
+  <tr><td>15</td><td>金</td><td></td><td>｜</td></tr>
+  <tr><td>16</td><td>土</td><td></td><td>｜</td></tr>
+  <tr><td>17</td><td>日</td><td></td><td>｜</td></tr>
+  <tr><td>18</td><td>月</td><td></td><td>｜合宿（1日目）</td></tr>
+  <tr><td>19</td><td>火</td><td></td><td>｜合宿（2日目）</td></tr>
+  <tr><td>20</td><td>水</td><td></td><td>｜</td></tr>
+  <tr><td>21</td><td>木</td><td></td><td>｜</td></tr>
+  <tr><td>22</td><td>金</td><td></td><td>｜</td></tr>
+  <tr><td>23</td><td>土</td><td></td><td>｜</td></tr>
+  <tr><td>24</td><td>日</td><td></td><td>・お盆休み最終日</td></tr>
+  <tr><td>25</td><td>月</td><td>☆</td><td>部室清掃（エアコンの下に何もない状態にします）</td></tr>
+  <tr><td>26</td><td>火</td><td>☆</td><td>エアコン掃除（業者さんがやってくれます）＆ 部室引っ越し</td></tr>
+  <tr><td>27</td><td>水</td><td>○</td><td></td></tr>
+  <tr><td>28</td><td>木</td><td></td><td></td></tr>
+  <tr><td>29</td><td>金</td><td>○</td><td></td></tr>
+  <tr><td>30</td><td>土</td><td></td><td></td></tr>
+  <tr><td>31</td><td>日</td><td></td><td>鳥科ライブ</td></tr>
 </table>
 
 ## 9月
 <table>
   <tr>
-    <th>日付</th><th>曜日</th><th>イベント</th>
+    <th>日付</th><th>曜日</th><th>実施</th><th>イベント</th>
   </tr>
-  <tr><td>1</td><td>月</td><td></td></tr>
-  <tr><td>2</td><td>火</td><td></td></tr>
-  <tr><td>3</td><td>水</td><td>○</td></tr>
-  <tr><td>4</td><td>木</td><td></td></tr>
-  <tr><td>5</td><td>金</td><td>○</td></tr>
-  <tr><td>6</td><td>土</td><td></td></tr>
-  <tr><td>7</td><td>日</td><td></td></tr>
-  <tr><td>8</td><td>月</td><td></td></tr>
-  <tr><td>9</td><td>火</td><td>○</td></tr>
-  <tr><td>10</td><td>水</td><td>○</td></tr>
-  <tr><td>11</td><td>木</td><td></td></tr>
-  <tr><td>12</td><td>金</td><td>○</td></tr>
-  <tr><td>13</td><td>土</td><td></td></tr>
-  <tr><td>14</td><td>日</td><td></td></tr>
-  <tr><td>15</td><td>月</td><td></td></tr>
-  <tr><td>16</td><td>火</td><td>○</td></tr>
-  <tr><td>17</td><td>水</td><td>○</td></tr>
-  <tr><td>18</td><td>木</td><td></td></tr>
-  <tr><td>19</td><td>金</td><td>○</td></tr>
-  <tr><td>20</td><td>土</td><td></td></tr>
-  <tr><td>21</td><td>日</td><td></td></tr>
-  <tr><td>22</td><td>月</td><td></td></tr>
-  <tr><td>23</td><td>火</td><td>○</td></tr>
-  <tr><td>24</td><td>水</td><td>○</td></tr>
-  <tr><td>25</td><td>木</td><td></td></tr>
-  <tr><td>26</td><td>金</td><td>○</td></tr>
-  <tr><td>27</td><td>土</td><td></td></tr>
-  <tr><td>28</td><td>日</td><td></td></tr>
-  <tr><td>29</td><td>月</td><td></td></tr>
-  <tr><td>30</td><td>火</td><td>○</td></tr>
+  <tr><td>1</td><td>月</td><td></td><td></td></tr>
+  <tr><td>2</td><td>火</td><td></td><td></td></tr>
+  <tr><td>3</td><td>水</td><td>○</td><td></td></tr>
+  <tr><td>4</td><td>木</td><td></td><td></td></tr>
+  <tr><td>5</td><td>金</td><td>○</td><td></td></tr>
+  <tr><td>6</td><td>土</td><td></td><td></td></tr>
+  <tr><td>7</td><td>日</td><td></td><td></td></tr>
+  <tr><td>8</td><td>月</td><td></td><td></td></tr>
+  <tr><td>9</td><td>火</td><td>○</td><td></td></tr>
+  <tr><td>10</td><td>水</td><td>○</td><td></td></tr>
+  <tr><td>11</td><td>木</td><td></td><td></td></tr>
+  <tr><td>12</td><td>金</td><td>○</td><td></td></tr>
+  <tr><td>13</td><td>土</td><td></td><td></td></tr>
+  <tr><td>14</td><td>日</td><td></td><td></td></tr>
+  <tr><td>15</td><td>月</td><td></td><td></td></tr>
+  <tr><td>16</td><td>火</td><td>○</td><td></td></tr>
+  <tr><td>17</td><td>水</td><td>○</td><td></td></tr>
+  <tr><td>18</td><td>木</td><td></td><td></td></tr>
+  <tr><td>19</td><td>金</td><td>○</td><td></td></tr>
+  <tr><td>20</td><td>土</td><td></td><td></td></tr>
+  <tr><td>21</td><td>日</td><td></td><td></td></tr>
+  <tr><td>22</td><td>月</td><td></td><td></td></tr>
+  <tr><td>23</td><td>火</td><td>○</td><td></td></tr>
+  <tr><td>24</td><td>水</td><td>○</td><td></td></tr>
+  <tr><td>25</td><td>木</td><td></td><td></td></tr>
+  <tr><td>26</td><td>金</td><td>○</td><td></td></tr>
+  <tr><td>27</td><td>土</td><td></td><td></td></tr>
+  <tr><td>28</td><td>日</td><td></td><td></td></tr>
+  <tr><td>29</td><td>月</td><td></td><td></td></tr>
+  <tr><td>30</td><td>火</td><td>○</td><td></td></tr>
 </table>
