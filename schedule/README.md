@@ -15,7 +15,7 @@
 ## 7月
 <table>
   <tr>
-    <th>日付</th><th>曜日</th><th>実施</th><th>その他イベント</th>
+    <th>日付</th><th>曜日</th><th>実施</th><th>特記事項</th>
   </tr>
   <tr><td>1</td><td>火</td><td></td><td>電装教室①</td></tr>
   <tr><td>2</td><td>水</td><td></td><td>電装教室②</td></tr>
@@ -53,7 +53,7 @@
 ## 8月
 <table>
   <tr>
-    <th>日付</th><th>曜日</th><th>実施</th><th>その他イベント</th>
+    <th>日付</th><th>曜日</th><th>実施</th><th>特記事項</th>
   </tr>
   <tr><td>1</td><td>金</td><td></td><td></td></tr>
   <tr><td>2</td><td>土</td><td></td><td></td></tr>
@@ -91,7 +91,7 @@
 ## 9月
 <table>
   <tr>
-    <th>日付</th><th>曜日</th><th>実施</th><th>イベント</th>
+    <th>日付</th><th>曜日</th><th>実施</th><th>特記事項</th>
   </tr>
   <tr><td>1</td><td>月</td><td></td><td></td></tr>
   <tr><td>2</td><td>火</td><td></td><td></td></tr>
