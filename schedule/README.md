@@ -43,7 +43,7 @@
   <tr><td>24</td><td>木</td><td></td><td></td></tr>
   <tr><td>25</td><td>金</td><td></td><td></td></tr>
   <tr><td>26</td><td>土</td><td></td><td>鳥人間コンテスト2025（プロペラ機部門）</td></tr>
-  <tr><td>27</td><td>日</td><td></td><td>鳥人間コンテスト2025（滑空機部門）</td></tr>
+  <tr><td>27</td><td>日</td><td></td><td><b>鳥人間コンテスト2025（滑空機部門）</b></td></tr>
   <tr><td>28</td><td>月</td><td></td><td></td></tr>
   <tr><td>29</td><td>火</td><td></td><td></td></tr>
   <tr><td>30</td><td>水</td><td></td><td></td></tr>
