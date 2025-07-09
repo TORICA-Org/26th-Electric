@@ -3,3 +3,4 @@
 
 - [スケジュール](schedule/)
 - [製作計画](plan/)
+- [TORICA Wiki](https://github.com/TORICA-25th/TORICA_Electric/wiki)
