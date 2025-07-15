@@ -18,9 +18,8 @@
   - 絶対方位が取れないがそれがどれだけ必要性が有るか不明
   - **6軸センサではドリフト（誤差が蓄積することによる大きな誤差）が発生**（1分の飛行なら大丈夫かも）
 
-<img src="../img/noFin.png" style="max-height=500px;">
+![1752576758095](https://github.com/user-attachments/assets/434e141c-613b-40f4-a5b1-230658cab35c)
 
-<img src="../img/withFin.png" style="max-height=500px;">
 
 ### 電源ユニット部
 - バッテリー搭載位置は検討中
